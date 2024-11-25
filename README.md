@@ -1,6 +1,5 @@
-<p align="center"><a href="https://morepriyam.com"><img width="80%" alt="Hello, I'm Priyam!" src="./assets/header.png" /></a></p>
-
-I'm a passionate FullStack React/Node Java Developer from Indiana 🇺🇸
+Hello I'm Priyam More 👋
+ I'm a passionate FullStack React/Node Java Developer from Indiana 🇺🇸
 
 **About me**
 
