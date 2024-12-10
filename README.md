@@ -9,7 +9,7 @@ Hello I'm Priyam More 👋
 
 - 🛠️ Currently exploring DevOps tools like Docker and Kubernetes, and mastering Design Patterns (Production Ready)
 
-- 📚 Writing comprehensive test cases for my projects
+- 🆒 fibucks.com ,paymentsapp.in ,callchess.com
 
 - 💬 Ask me about anything [here](https://github.com/morepriyam/morepriyam/issues)
 
