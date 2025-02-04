@@ -1,6 +1,4 @@
-Hello I'm Priyam More 👋
- I'm a passionate software engineer from Indiana 🇺🇸
-
+Hello I'm Priyam 👋
 **About me**
 
 - 🎓 MSCS Student at [Purdue University](https://www.purdue.edu/)
